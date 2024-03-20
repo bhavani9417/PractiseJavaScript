@@ -1,3 +1,3 @@
-console(hello)
+console.log(hello)
 
-console(ok)
+console.log(ok)
